@@ -1,0 +1,55 @@
+*{
+    margin : 0;
+    padding: 0;
+}
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.logo
+{
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 160px;
+    top: 22px;
+}
+h1
+{
+    padding-left: 100px; 
+    padding-top: 200px;
+    font-weight: bolder;
+}
+h4
+{
+    padding-left: 120px; 
+    padding-top: 15px;  
+    font-weight: lighter; 
+}
+.contact
+{
+    padding-left: 100px; 
+    padding-top: 50px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.icon1
+{
+    position: absolute;
+    right: 180px;
+    top: 22px;
+    font-weight: lighter;
+}
+.icon2
+{
+    position: absolute;
+    right: 50px;
+    top: 22px;
+    font-weight: lighter;
+}
+h2{
+    position: absolute;
+    left: 30px;
+    top: 18px;
+    font-weight: bolder;
+}
